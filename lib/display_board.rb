@@ -12,7 +12,7 @@ board=[" "," "," "," ","X"," "," "," "," "]
 
 display_board(board)
 
-board=["O"," "," "," "," "," "," "," "," "]
+board=[0]="O"
 
 display_board(board)
 
