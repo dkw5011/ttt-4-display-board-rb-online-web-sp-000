@@ -12,6 +12,8 @@ board=[" "," "," "," ","X"," "," "," "," "]
 
 display_board(board)
 
+end
+
 board=["O"," "," "," "," "," "," "," "," "]
 
 display_board(board)
