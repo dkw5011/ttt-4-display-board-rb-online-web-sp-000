@@ -8,7 +8,7 @@ def display_board(board)
   puts "  #{board[6]}|#{board[7]}|#{board[8]}  "
 end
 
-puts "#{board[4]}=X"
+puts board[4]="X"
 
 display_board(board)
 
